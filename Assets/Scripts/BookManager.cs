@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class BookManager : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
+    //Change and stuff
+
+
+    void Start () {
 		
 	}
 	
-	// Update is called once per frame
 	void Update () {
 		
 	}
